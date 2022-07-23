@@ -1,7 +1,7 @@
 # Alfabeto em português
 Exibe uma legra grande no centro e mostra seu áudio, quando uma letra é pressionada.
 
-![](algarismos.png)
+![](alfabeto.png)
 
 ## Erro
 
