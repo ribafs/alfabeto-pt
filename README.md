@@ -1,6 +1,8 @@
 # Alfabeto em português
 Exibe uma legra grande no centro e mostra seu áudio, quando uma letra é pressionada.
 
+![](algarismos.png)
+
 ## Erro
 
 Quando se pressiona qualquer tecla diferente de uma letra, aparece um áudio indicando um erro.
